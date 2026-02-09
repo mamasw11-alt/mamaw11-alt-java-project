@@ -1,0 +1,15 @@
+2026-02-09 09:03:18 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - === Запуск Maven Library Demo ===
+2026-02-09 09:03:18 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - Проект использует все библиотеки, которые попросил тимлид
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - 1. Создаем пример JSON...
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - 2. Сохраняем JSON в файл...
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - 3. Обрабатываем файл...
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.DataProcessor - Начинаем обработку файла: data/input.json
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Прочитано 182 байт
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Обработана запись: description -> Пример проекта с Maven
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Обработана запись: name -> Test Project
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Обработана запись: dependencies -> [Jackson, Guava, Apache Commons]
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Обработана запись: version -> 1.0.0
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] DEBUG com.company.project.DataProcessor - Обработана запись: author -> John Doe
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.DataProcessor - Обработка завершена. Результат сохранен в: data/output.txt
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - 4. Читаем результат...
+2026-02-09 09:03:19 [com.company.project.MainApp.main()] INFO  com.company.project.MainApp - === Программа завершена успешно ===

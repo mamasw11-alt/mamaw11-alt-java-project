@@ -1,0 +1,5 @@
+Description: Пример проекта с Maven
+Name: Test Project
+Dependencies: [Jackson, Guava, Apache Commons]
+Version: 1.0.0
+Author: John Doe

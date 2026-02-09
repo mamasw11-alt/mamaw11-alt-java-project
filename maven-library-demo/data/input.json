@@ -1,0 +1,7 @@
+{
+  "description" : "Пример проекта с Maven",
+  "name" : "Test Project",
+  "dependencies" : [ "Jackson", "Guava", "Apache Commons" ],
+  "version" : "1.0.0",
+  "author" : "John Doe"
+}
